@@ -5,7 +5,7 @@
 .banner{
   width: 100%;
   height:250vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(../../images/posteredit2.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),url(images/posteredit2.png);
   background-size: cover;
   background-position: center
 }
